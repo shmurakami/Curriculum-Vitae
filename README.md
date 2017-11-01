@@ -4,12 +4,11 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|村上 俊介 (Shunsuke Murakami))|
+|Facebook|https://www.facebook.com/shunsuke.murakami.35|
+|Twitter|[@shaka0maru](https://twitter.com/shaka0maru)|
+|Qiita|https://qiita.com/shmurakami|
+|Speakerdeck|https://speakerdeck.com/shmurakami|
 
 ## スキル
 
